@@ -42,11 +42,16 @@ marquee{
 
 .environment_li img {
     border-radius: 25px;
+    width: 200px;
 }
 
 .environment_li p {
     margin-top: 10px;
 }
-.environment_li_1{
+.environment_li_1 p{
+    text-align: center;
+    margin-left: 230px;
+}
+.environment_li_1 h4{
     text-align: center;
 }
